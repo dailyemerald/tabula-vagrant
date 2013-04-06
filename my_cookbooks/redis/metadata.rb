@@ -1,0 +1,7 @@
+name             'redis'
+maintainer       'Emerald Media'
+maintainer_email 'ivar@ivarvong.com'
+license          'MIT'
+description      'Installs/Configures redis'
+long_description 'From apt-get package'
+version          '0.1.0'
