@@ -6,6 +6,6 @@
 Then, in the directory:
 
 	bundle
-	librarian-chef init
+	librarian-chef install
 	vagrant up
 
